@@ -46,7 +46,7 @@
   },
   {
     "name": "VerifiedID__DidAuthority",
-    "value": "did:web:...your did...",
+    "value": "did:web:verifiedid.entra.microsoft.com:a252fc43-9f5a-47c1-a1c4-efa5887ae522:e83c7ca5-7065-3ed4-d267-ca72ef1e0c7b",
     "slotSetting": false
   },
   {
